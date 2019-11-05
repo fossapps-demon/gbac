@@ -1,0 +1,16 @@
+{
+  "short_name": "gbac",
+  "name": "G-BAC",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "type": "image/png",
+      "sizes": "107x45"
+    }
+  ],
+
+  "background_color": "#F9F6ED",
+  "theme_color": "#F9F6ED",
+  "display": "standalone",
+  "start_url": "/"
+}
